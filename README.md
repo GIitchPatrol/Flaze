@@ -1,8 +1,4 @@
 <div align="center">
 
-# 🔥・**Flaze Documentation**
-The next-generation Discord bot designed specifically for Emergency Response: Liberty County (ER:LC) private server management. Flaze brings advanced automation, customizable features, and seamless integration to enhance your server experience. Whether you're managing roles, tracking shifts, or overseeing operations, Flaze has got you.
-
-
-### `/background-check`
-**Command Description**: Background check a ROBLOX player with ease.
+# 🔥・**GIitchPatrol**
+Brief Description; I have a strong background in Human Resources, management, and Roblox Studio development. I specialize in delivering unforgetable solutions & experiences that enhance user experience. My expertise spans across managing teams, creating efficient work-arounds, or developing interactive games. I use my qualities to my limit and challenge myself when I can.
